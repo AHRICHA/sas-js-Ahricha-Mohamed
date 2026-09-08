@@ -17,4 +17,18 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let panier = 350;
+let coutFinal = panier;
+
+if (panier >= 200) {
+    console.log("livraison gratuite");
+} else {
+    console.log("laivraison charge");
+}
+
+if (panier >= 500) {
+    coutFinal = panier * 0.9;
+} else {
+    console.log(coutFinal);
+}
+

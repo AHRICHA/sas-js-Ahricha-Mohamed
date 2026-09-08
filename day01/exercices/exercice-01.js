@@ -17,7 +17,6 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-
 const PI = 3.14;
 const rayon = 5;
 const périmètre = (2 * PI * rayon );

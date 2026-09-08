@@ -17,9 +17,8 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
 
 const PI = 3.14;
-
-console.log(PI * 2 * 5)
-
+const rayon = 5;
+const périmètre = (2 * PI * rayon );
+console.log (périmètre);

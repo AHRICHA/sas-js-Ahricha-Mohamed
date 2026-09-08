@@ -13,8 +13,13 @@
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-07
  * ▶️ Commande : node day01/exercices/exercice-07.js
  */
-'use strict';
+'use strict'
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+
+let solde = 1000
+solde -= 200
+solde *= 1.05
+console.log(solde)
+

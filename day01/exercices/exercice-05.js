@@ -20,8 +20,8 @@
 
 const nombre = 15
 if(nombre % 2 === 0 ) {
-    console.log (pair) {
-else 
-    console.log (impair)
+    console.log("pair") 
+} else {
+    console.log ("impair")
 
 }

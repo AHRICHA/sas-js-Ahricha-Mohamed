@@ -14,4 +14,5 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+console.log("10"==10) // le == fait lle change seulemnt pour la valeur
+console.log("10"===10) // le === fait l'echange si la valeur est le type

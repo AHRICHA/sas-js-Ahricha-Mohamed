@@ -14,11 +14,12 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-let i = secret 
+let i = "secret"
 let motDePasse = "faux"
 do{
     console.log("Veuillez entrer le mot de passe")
-    
+    motDePasse = "secret"
+
 
 }
-while
+while(motDePasse != i)

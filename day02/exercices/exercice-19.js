@@ -1,18 +1,18 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 01 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * ÉGALITÉ STRICTE VS SOUPLE
+ * JOUR 02 · EXERCICE 19 · NIVEAU 3 : DÉFI (AVANCÉS)
+ * L'ÉCHIQUIER
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Comparez la chaîne "10" et le nombre 10 d'abord avec == puis avec ===. Affichez les deux résultats et constatez la différence.
+ * Générez une chaîne de caractères représentant une grille 8x8 avec des # et des espaces alternés (façon damier/échiquier).
+ * Astuce : Si l'index i+j est pair, ajoutez un espace, sinon ajoutez #.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
- * ▶️ Commande : node day01/exercices/exercice-08.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-19
+ * ▶️ Commande : node day02/exercices/exercice-19.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-console.log("10"==10) // le == fait le change seulemnt pour les valeur
-console.log("10"===10) // le === fait l'echange si la valeur est le type
+// TODO: écris ta solution ici.

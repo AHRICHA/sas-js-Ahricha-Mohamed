@@ -1,18 +1,20 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 01 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * ÉGALITÉ STRICTE VS SOUPLE
+ * JOUR 02 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * PUISSANCE MANUELLE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Comparez la chaîne "10" et le nombre 10 d'abord avec == puis avec ===. Affichez les deux résultats et constatez la différence.
+ * Calculez 2 à la puissance 10 en utilisant une boucle for (sans utiliser Math.pow ni ).
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
- * ▶️ Commande : node day01/exercices/exercice-08.js
+ * RÉSULTAT ATTENDU
+ * 1024
+ *
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
+ * ▶️ Commande : node day02/exercices/exercice-11.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-console.log("10"==10) // le == fait le change seulemnt pour les valeur
-console.log("10"===10) // le === fait l'echange si la valeur est le type
+// TODO: écris ta solution ici.

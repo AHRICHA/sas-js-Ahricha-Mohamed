@@ -1,18 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 01 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * ÉGALITÉ STRICTE VS SOUPLE
+ * JOUR 02 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * L'ART DE L'ESQUIVE (CONTINUE)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Comparez la chaîne "10" et le nombre 10 d'abord avec == puis avec ===. Affichez les deux résultats et constatez la différence.
+ * Affichez les nombres de 1 à 20, mais ignorez (ne loguez pas) les multiples de 3 en utilisant le mot-clé continue.
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
- * ▶️ Commande : node day01/exercices/exercice-08.js
+ * ▶️ Commande : node day02/exercices/exercice-08.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-console.log("10"==10) // le == fait le change seulemnt pour les valeur
-console.log("10"===10) // le === fait l'echange si la valeur est le type
+// TODO: écris ta solution ici.

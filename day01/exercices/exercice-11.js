@@ -31,4 +31,4 @@ if (panier >= 500) {
 } else {
     console.log(coutFinal);
 }
-
+-

@@ -1,18 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 01 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * ÉGALITÉ STRICTE VS SOUPLE
+ * JOUR 02 · EXERCICE 14 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * LE PLUS PETIT CARRÉ PARFAIT SUPÉRIEUR
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Comparez la chaîne "10" et le nombre 10 d'abord avec == puis avec ===. Affichez les deux résultats et constatez la différence.
+ * Trouvez et affichez le plus petit carré parfait (ex: 4, 9, 16) strictement supérieur à 1000 en utilisant un while.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
- * ▶️ Commande : node day01/exercices/exercice-08.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-14
+ * ▶️ Commande : node day02/exercices/exercice-14.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-console.log("10"==10) // le == fait le change seulemnt pour les valeur
-console.log("10"===10) // le === fait l'echange si la valeur est le type
+// TODO: écris ta solution ici.

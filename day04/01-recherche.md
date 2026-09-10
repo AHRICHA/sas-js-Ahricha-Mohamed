@@ -43,9 +43,9 @@
 
 > Que se passe-t-il si l'on oublie le mot-clé `return` dans une fonction censée renvoyer une valeur ?
 
-- [ ] J'ai recherché et compris la notion.
+[✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+Ma réponse : si nous avons oublie "return" dans un fonction le terminal doit afficher undefined a nous
 
 > À compléter avec mes propres mots.
 
@@ -67,9 +67,9 @@
 
 > Quelle est la syntaxe d'une **fonction fléchée** (arrow function) par rapport à une fonction classique ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+Ma réponse la fonction flechee utilise pour simplifier le code 
 
 > À compléter avec mes propres mots.
 

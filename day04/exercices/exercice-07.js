@@ -1,18 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 02 · EXERCICE 15 · NIVEAU 3 : DÉFI (AVANCÉS)
- * LA PYRAMIDE DE MARIO
+ * JOUR 03 · EXERCICE 07 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
+ * FONCTION DANS UNE FONCTION
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Générez dans la console une demi-pyramide d'étoiles de 5 lignes :
+ * Déclarez une fonction carre(x) puis une fonction sommeDesCarres(a, b) qui appelle carre pour a et pour b, et retourne la somme de leurs carrés.
  *
- * - - -
- *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-15
- * ▶️ Commande : node day02/exercices/exercice-15.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-07
+ * ▶️ Commande : node day03/exercices/exercice-07.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
+// TODO: écris ta solution ici.

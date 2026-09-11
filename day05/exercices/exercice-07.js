@@ -14,4 +14,6 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let a = "   utilisateur@email.com   "
+a = a.replaceAll(" ", "")
+console.log(a);

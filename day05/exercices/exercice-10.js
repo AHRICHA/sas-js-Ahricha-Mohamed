@@ -14,4 +14,9 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+
+function domaine(email1) {
+       return email1.slice(email1.indexOf("@") + 1); //email.slice(index)
+}
+let x=domaine("ekekek@ananj")
+console.log(x);

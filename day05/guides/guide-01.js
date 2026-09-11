@@ -7,6 +7,8 @@
  *
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
-'use strict';
+//'use strict';
+let date = "2024-10-15"
 
-// TODO: écris ta solution ici.
+console.log(date.slice(0, 4))
+

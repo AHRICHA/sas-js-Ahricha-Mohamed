@@ -9,4 +9,5 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+let a = "j'appprends le java script a youcode"
+console.log(a.search(/java script/))

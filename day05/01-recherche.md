@@ -43,9 +43,9 @@
 
 > Quelle méthode permet de transformer la chaîne `"A,B,C"` en un tableau `["A", "B", "C"]` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse : la methode qui permet de transformer la chaine "A,B,C" en un tableau ["A", "B", "c3] C'est split **
 
 > À compléter avec mes propres mots.
 
@@ -55,9 +55,9 @@
 
 > Quelle est la différence entre `.indexOf()` et `.search()` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse : indexOf il search seulement a string, mais search nous utilise pour tout les search , si nous avons utiliser les deux et ne trouve rien le result de les deux methode doit afficher (-1)**
 
 > À compléter avec mes propres mots.
 
@@ -67,9 +67,9 @@
 
 > À quoi servent les **Template Literals** (les backticks `` ` ``) par rapport aux simples quotes `'` ou doubles `"` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse : la difference entre les backticks **
 
 > À compléter avec mes propres mots.
 

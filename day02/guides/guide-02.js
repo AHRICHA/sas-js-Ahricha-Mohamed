@@ -8,5 +8,9 @@
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
 'use strict';
-
-// TODO: écris ta solution ici.
+let N = 100
+for(i=0; i <= N; i++){
+    if i % 2 == 0
+    console.log(N(i));
+     
+}

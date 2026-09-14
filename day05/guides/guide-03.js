@@ -8,4 +8,6 @@
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
 'use strict';
-
+let URL = "youcode-safi-2024"
+let newlink = URL.replaceAll("-", " ")
+console.log(newlink);

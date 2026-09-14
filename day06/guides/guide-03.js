@@ -11,5 +11,7 @@
 
 const file = ["Alice", "Bob", "Charlie"]
 file.splice(0, 1, "David")
+let file 
+
 console.log(file);
 

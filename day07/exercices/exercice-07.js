@@ -14,4 +14,18 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let livres = [
+    {titre : "amir",
+        autor : "achraf",
+    },
+        {titre : "eee",
+        autor : "achrddaf",
+    },
+    {titre : "amirff",
+        autor : "achddraf",
+    }
+]
+
+
+console.log(livres[1].titre);
+

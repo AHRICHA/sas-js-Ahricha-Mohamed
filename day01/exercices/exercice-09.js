@@ -21,4 +21,7 @@ let  admin = false
 let  moderateur = true
 let  motDePasseValide = false
 if(admin = motDePasseValide) {
-    console
+    console.log(acces);
+    else (utilisateur)
+    
+}

@@ -9,7 +9,6 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
 
 let cleRecherche = "modele";
 let voiture = {
@@ -17,4 +16,6 @@ let voiture = {
     modele : "Corolla",
     anne : 2020
 } 
-console.log(voiture["anne"]);
+const keys = Object.keys(voiture)
+
+console.log(keys);

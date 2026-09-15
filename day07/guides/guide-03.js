@@ -15,4 +15,6 @@ let voiture = {
     modele : "Corolla",
     anne : 2020
 } 
+console.log(Object.entries(voiture));
+
 

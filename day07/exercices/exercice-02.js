@@ -14,4 +14,12 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let utilisateur = {
+    name : "Alex",
+    age : 21,
+    estadmin : true,
+}
+utilisateur.age = utilisateur.age+1
+utilisateur.gmail = "Alexjoxson@gmail.com",
+console.log(utilisateur);
+

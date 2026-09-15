@@ -10,3 +10,11 @@
 'use strict';
 
 // TODO: écris ta solution ici.
+
+let cleRecherche = "modele";
+let voiture = {
+    marque : "Toyota",
+    modele : "Corolla",
+    anne : 2020
+} 
+console.log(voiture["anne"]);

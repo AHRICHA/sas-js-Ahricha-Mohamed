@@ -14,4 +14,30 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let obj = {
+    a : 1,
+    b : 2,
+    c: {
+        age: 55,
+    
+    }
+   
+}
+
+/* Object.freeze(obj)
+
+obj.c.age=1111;
+obj.c.d = 75
+
+console.log(obj);
+ */
+
+
+let copyobj = {...obj}
+copyobj.c.age=18;
+copyobj.a=1111;
+
+console.log(copyobj);
+console.log(obj)
+ 
+

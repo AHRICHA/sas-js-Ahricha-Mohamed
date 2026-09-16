@@ -14,4 +14,29 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let candidats = [
+    {
+        nom : "Ismail",
+        score : 4,
+    }, 
+    {
+        nom : "Mohamed",
+        score : 12,
+    },
+    {
+        nom : "Zakaria",
+        score : 17,
+    },
+    ]
+    
+    function lowestScore(candidats){
+        let  a = candidats[0].score
+        let  b = candidats[0].nom
+        for (let i =1; i>candidats.lenght; i++){
+            if (candidats[i].score>a){
+                a = candidats[i].score
+                b = candidats[i].nom
+            } return a
+        }
+    }
+console.log(lowestScore(candidats));
